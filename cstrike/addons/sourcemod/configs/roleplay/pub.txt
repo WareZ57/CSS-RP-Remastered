@@ -1,0 +1,3 @@
+Bienvenue sur le serveur Roleplay.
+Veuillez rapporter les bugs aux administrateurs.
+Tapez \x04!rp \x01pour voir les commandes.

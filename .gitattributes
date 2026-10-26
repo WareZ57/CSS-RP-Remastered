@@ -1,0 +1,6 @@
+*.smx binary
+*.bz2 binary
+*.nav binary
+*.sp text eol=lf
+*.cfg text eol=lf
+*.txt text eol=lf
